@@ -1,0 +1,30 @@
+[{
+    "id": 1,
+    "name": "Ohrensessel Josslyn",
+    "price": "499.99",
+    "img": "http://krzysu.github.io/reactjs-shopping-cart/images/01.jpg"
+},
+{
+    "id": 2,
+    "name": "Sessel Sofie",
+    "price": "249.99",
+    "img": "http://krzysu.github.io/reactjs-shopping-cart/images/02.jpg"
+},
+{
+    "id": 3,
+    "name": "Schlafsessel Rovigo",
+    "price": "239.99",
+    "img": "http://krzysu.github.io/reactjs-shopping-cart/images/04.jpg"
+},
+{
+    "id": 4,
+    "name": "Sessel Little",
+    "price": "119.99",
+    "img": "http://krzysu.github.io/reactjs-shopping-cart/images/06.jpg"
+},
+{
+    "id": 5,
+    "name": "Sessel Peacock",
+    "price": "599.99",
+    "img": "http://krzysu.github.io/reactjs-shopping-cart/images/05.jpg"
+}]
